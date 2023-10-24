@@ -1,0 +1,22 @@
+{
+  "id": "1",
+  "name": "mobile",
+  "type": "category",
+  "brands": [
+    {
+      "id": "1",
+      "title": "APPLE",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/976px-Apple_logo_black.svg.png"
+    },
+    {
+      "id": "2",
+      "title": "SAMSUNG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Samsung_wordmark.svg/2560px-Samsung_wordmark.svg.png"
+    },
+    {
+      "id": "3",
+      "title": "HUAWEI",
+      "image": "https://upload.wikimedia.org/wikipedia/th/thumb/9/92/Huawei_logo.svg/1280px-Huawei_logo.svg.png"
+    }
+  ]
+}

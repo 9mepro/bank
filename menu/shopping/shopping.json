@@ -1,0 +1,14 @@
+{
+  "id": "1",
+  "name": "shopping",
+  "type": "MENU",
+  "category": [
+    { "id": "1", "title": "มือถือ", "image": "", "name": "mobile" },
+    {
+      "id": "2",
+      "title": "เครื่องฟอกอากาศ",
+      "image": ""
+    },
+    { "id": "3", "title": "นมผง", "image": "milk" }
+  ]
+}

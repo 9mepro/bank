@@ -1,0 +1,61 @@
+{
+  "id": "1",
+  "title": "galaxy s23 fe",
+  "link": "shopping/1/mobile/2/apple/3/iphone15",
+  "image": "https://cdn.siamphone.com/spec/samsung/images/galaxy_s23_fe/1696498931_01-samsung-galaxy-s23-fe.jpg",
+  "gallery": [
+    "https://cdn.siamphone.com/spec/samsung/images/galaxy_s23_fe/1696498931_01-samsung-galaxy-s23-fe.jpg",
+    "https://cdn.siamphone.com/spec/samsung/images/galaxy_s23_fe/1696498931_02-samsung-galaxy-s23-fe.jpg",
+    "https://cdn.siamphone.com/spec/samsung/images/galaxy_s23_fe/1696498931_03-samsung-galaxy-s23-fe.jpg",
+    "https://cdn.siamphone.com/spec/samsung/images/galaxy_s23_fe/1696498931_04-samsung-galaxy-s23-fe.jpg"
+  ],
+  "store": [
+    {
+      "id": "1",
+      "name": "SHOPEE",
+      "price": 23000,
+      "link": "https://bit.ly/3tOqrA9"
+    },
+    {
+      "id": "2",
+      "name": "LAZADA",
+      "price": 23000,
+      "link": "https://bit.ly/3MaZqxt"
+    }
+  ],
+  "category": "MOBILE",
+  "category_id": "1",
+
+  "brand": "SAMSUNG",
+  "brand_id": "1",
+
+  "feature": [
+    {
+      "title": "จอแสดงผล",
+      "keyword": "6.4",
+      "detail": "จอ Dynamic AMOLED 2X 24-bit 1080 x 2340 พิกเซล"
+    },
+    {
+      "title": "เครือข่าย",
+      "keyword": "5G",
+      "detail": "2 ซิมการ์ด"
+    },
+    {
+      "title": "กล้อง",
+      "keyword": "50 MP",
+      "detail": "50 MP + 8MP (Telephoto) + 12MP (Ultrawide) กล้องหน้า 10MP"
+    },
+    {
+      "title": "cpu",
+      "keyword": "Exynos 2200 Octa Core",
+      "detail": "ความเร็ว  2.8 GHz"
+    },
+    {
+      "title": "หน่วยความจำ",
+      "keyword": "8G",
+      "detail": "ความเร็ว  2.8 GHz"
+    }
+  ],
+  "tag": [],
+  "content": "<div>CT</div>"
+}
